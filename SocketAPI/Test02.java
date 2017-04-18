@@ -1,4 +1,4 @@
-package com.imooc;
+package application.socket;
 
 import java.net.MalformedURLException;
 import java.net.URL;

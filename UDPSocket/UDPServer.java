@@ -1,4 +1,4 @@
-package com.imooc;
+package application.socket;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
